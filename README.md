@@ -6,7 +6,6 @@
 3. Enhances presentation, so data is better primed for analysis
 
 OUTPUT EXAMPLE:
-===============
 
 BEFORE:
 
